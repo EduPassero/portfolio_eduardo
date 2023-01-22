@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nome": "Biblioteca de Filmes",
+        "descricao": "Uma biblioteca de filmes utilizando uma API, criada em um curso de React JS. Confira se seu filme favorito está lá!",
+        "link": ""
+    },
+    {
+        "id": 2,
+        "nome": "Gerenciador de Projetos",
+        "descricao": "Confesso, esse projeto é meio entediante. Mas deu trabalho pra fazer e funciona bem! Peço encarecidamente que dê uma olhada.",
+        "link": ""
+    },
+    {
+        "id": 3,
+        "nome": "Calculadora",
+        "descricao": "Uma calculadora similar ao modelo da Apple, só que muito mais barata!",
+        "link": ""
+    },
+    {
+        "id": 4,
+        "nome": "Busca CEP",
+        "descricao": "Um singelo buscador de CEP, mas que vale a pena ser conferido... confia!",
+        "link": ""
+    }
+]

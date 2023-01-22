@@ -1,0 +1,22 @@
+.card{
+    background-color: rgb(2, 60, 66);
+    border: 1px solid rgba(14, 225, 248, 0.8);
+    text-align: center;
+    border-radius: 5px;
+    height: 300px;
+}
+
+.card h2{
+    padding: 1em 0;
+}
+
+.card p{
+    padding: 1em 2em;
+    text-align: justify;
+}
+
+.card:hover{
+    border: 1px solid rgb(0, 255, 251);
+    cursor: pointer;
+    box-shadow: 0 0 10px rgb(83, 251, 245), inset 0 0 10px rgb(83, 251, 245);
+}
